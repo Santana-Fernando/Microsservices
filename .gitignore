@@ -1,0 +1,34 @@
+# Arquivos temporários
+[Oo]bj/
+[Bb]in/
+*.user
+*.suo
+*.cache
+*.log
+*.vscode
+.vs/
+
+# Pacotes NuGet
+packages/
+*.nupkg
+# A pasta .idea para projetos JetBrains Rider
+.idea/
+# Arquivos de configuração local
+*.suo
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.mdf
+*.ldf
+*.suo
+*.bak
+[Tt]est[Rr]esult*/
+_ReSharper*/
+*.resharper.user
+ReSharper*/
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
